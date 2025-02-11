@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Downloads\C# code\Food Ordering System\bin\Debug\Food Ordering System.exe.config
+C:\Users\Lenovo\Downloads\C# code\Food Ordering System\bin\Debug\Food Ordering System.exe
+C:\Users\Lenovo\Downloads\C# code\Food Ordering System\bin\Debug\Food Ordering System.pdb
+C:\Users\Lenovo\Downloads\C# code\Food Ordering System\obj\Debug\Food Ordering System.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\C# code\Food Ordering System\obj\Debug\Food Ordering System.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\C# code\Food Ordering System\obj\Debug\Food Ordering System.exe
+C:\Users\Lenovo\Downloads\C# code\Food Ordering System\obj\Debug\Food Ordering System.pdb
